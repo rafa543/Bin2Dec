@@ -19,13 +19,13 @@ Projeto feito para treina habilidades front-end como html, css, e javascript
  
 ## How to use
  
-### 1 - Unica tela digite um número e ele converte para binario
+### 1 - Unica tela digite um número e ele converte para binário
 ![Home Screen](https://github.com/rafa543/Bin2Dec/blob/master/bin2dec.jpg)
 
 
 ## Features
  
-  - Converso de binario para um número decimal
+  - Converso de binário para um número decimal
   
  
  
