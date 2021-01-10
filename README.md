@@ -3,6 +3,8 @@
 ## Bin2Dec
  
 Projeto feito para treina habilidades front-end como html, css, e javascript
+
+## https://rafa543.github.io/Bin2Dec/
  
  
 ## Technology 
